@@ -7,13 +7,13 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lien0219/lien0219/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="850" />
+  <img src="https://raw.githubusercontent.com/lien0219/lien0219/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="900" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lien0219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lien0219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="48%"/>
 </div>
 
