@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000428,50:004e92,100:00c6ff&height=320&section=header&text=LIEN&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%203D%20Visualization%20%7C%20AIGC&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000428,50:004e92,100:00c6ff&height=300&section=header&text=LIEN&fontSize=65&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%203D%20Visualization%20%7C%20AIGC&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=生活不止，学无止境;WebGL+%7C+WebGIS+%7C+Three.js+%7C+Cesium;H5+%7C+Vue+%7C+React+%7C+Canvas;Golang+%7C+Node.js+%7C+Python+%7C+C%2B%2B;Building+Visualization+Systems;Exploring+AIGC+Intelligence"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=生活不止，学无止境;WebGL+%7C+WebGIS+%7C+Three.js+%7C+Cesium;H5+%7C+Vue+%7C+React+%7C+Canvas;Golang+%7C+Node.js+%7C+Python+%7C+C%2B%2B;Building+Visualization+Systems;Exploring+AIGC+Intelligence"/>
 </p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-- 🌌 专注 Web 可视化 & 3D 图形方向
-- ⚙ 构建高性能系统与数据可视化平台
-- 🤖 探索 AIGC + 多模态交互应用
-- 📚 生活不止，学无止境
+- 🌌 专注 Web 可视化 & 3D 图形系统构建  
+- ⚙ 构建高性能数据平台与工程化架构  
+- 🤖 探索 AIGC 与多模态应用落地  
+- 📚 生活不止，学无止境  
 
 🔗 Blog  
-https://blog.csdn.net/qq_53742640?spm=1010.2135.3001.5343
+https://blog.csdn.net/qq_53742640?spm=1010.2135.3001.5343  
 
 ---
 
@@ -60,13 +60,13 @@ https://blog.csdn.net/qq_53742640?spm=1010.2135.3001.5343
 
 ## 🤖 AI & AIGC
 
-- AIGC 应用集成
-- AI 工作流设计
-- 多模态系统探索
+- AIGC 应用集成  
+- AI 工作流设计  
+- 多模态系统探索  
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Engineering Metrics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=lien0219&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF"/>
@@ -75,7 +75,7 @@ https://blog.csdn.net/qq_53742640?spm=1010.2135.3001.5343
 
 ---
 
-# 📈 Activity Graph
+# ⚡ Data Flow
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lien0219&theme=react-dark&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true"/>
@@ -83,18 +83,10 @@ https://blog.csdn.net/qq_53742640?spm=1010.2135.3001.5343
 
 ---
 
-# 🏆 Trophy Wall
+# 🏆 Tech Distribution
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lien0219&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lien0219/lien0219/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lien0219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF"/>
 </p>
 
 ---
