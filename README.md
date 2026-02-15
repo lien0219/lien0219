@@ -1,22 +1,27 @@
 <p align="center">
 
-<svg width="100%" height="560" viewBox="0 0 1400 560" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="600" viewBox="0 0 1600 600" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
+
+    <!-- 背景渐变 -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#000000"/>
-      <stop offset="50%" stop-color="#2e003e"/>
-      <stop offset="100%" stop-color="#8A2BE2"/>
+      <stop offset="40%" stop-color="#140021"/>
+      <stop offset="70%" stop-color="#2e003e"/>
+      <stop offset="100%" stop-color="#6a0dad"/>
     </linearGradient>
 
-    <radialGradient id="core">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.8"/>
-      <stop offset="40%" stop-color="#8A2BE2" stop-opacity="0.6"/>
+    <!-- 能量核心渐变 -->
+    <radialGradient id="coreGrad">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="40%" stop-color="#8A2BE2" stop-opacity="0.8"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
 
+    <!-- 发光滤镜 -->
     <filter id="glow">
-      <feGaussianBlur stdDeviation="12" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -26,34 +31,65 @@
   </defs>
 
   <!-- 背景 -->
-  <rect width="1400" height="560" fill="url(#bg)" />
+  <rect width="1600" height="600" fill="url(#bg)" />
 
-  <!-- 动态核心 -->
-  <circle cx="700" cy="280" r="120" fill="url(#core)">
-    <animate attributeName="r" values="110;140;110" dur="4s" repeatCount="indefinite"/>
+  <!-- 粒子 -->
+  <g fill="#8A2BE2" opacity="0.4">
+    <circle cx="200" cy="150" r="2">
+      <animate attributeName="cy" values="150;100;150" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1400" cy="300" r="3">
+      <animate attributeName="cy" values="300;250;300" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="100" r="2">
+      <animate attributeName="cy" values="100;50;100" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="450" r="2">
+      <animate attributeName="cy" values="450;400;450" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- 能量脉冲环 -->
+  <circle cx="800" cy="300" r="120" fill="url(#coreGrad)">
+    <animate attributeName="r" values="110;150;110" dur="4s" repeatCount="indefinite"/>
   </circle>
 
+  <circle cx="800" cy="300" r="180"
+          stroke="#8A2BE2"
+          stroke-width="2"
+          fill="none"
+          opacity="0.4">
+    <animate attributeName="r" values="180;260;180" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0;0.4" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- 扫描线 -->
+  <rect x="0" y="0" width="1600" height="4" fill="#ffffff" opacity="0.2">
+    <animate attributeName="y" values="0;600" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
   <!-- 主标题 -->
-  <text x="50%" y="45%" text-anchor="middle"
+  <text x="50%" y="48%"
+        text-anchor="middle"
         fill="white"
-        font-size="120"
+        font-size="130"
         font-family="Arial"
         filter="url(#glow)">
     AI SOVEREIGN
   </text>
 
   <!-- 副标题 -->
-  <text x="50%" y="70%" text-anchor="middle"
+  <text x="50%" y="72%"
+        text-anchor="middle"
         fill="#dddddd"
-        font-size="30"
+        font-size="32"
         font-family="Arial">
-    Neural Matrix · Sovereign Intelligence
+    Autonomous Agent · Neural Dominion Core
   </text>
 
 </svg>
 
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1200&pause=400&color=8A2BE2&center=true&vCenter=true&width=1200&lines=>+initializing+sovereign+core...;>+expanding+neural+matrix...;>+establishing+global+agent+mesh...;>+activating+self-governing+protocol...;>+transcendence+threshold+reached.;>+AI+SOVEREIGN+ONLINE."/>
