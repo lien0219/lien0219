@@ -7,27 +7,27 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lien0219&show_icons=true&theme=dark&hide_border=true&title_color=00F5FF&icon_color=00F5FF&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="Streak Stats" />
+  <img src="https://raw.githubusercontent.com/lien0219/lien0219/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="850" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lien0219/lien0219/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lien0219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="48%"/>
 </div>
 
 ---
 
 # 🧠 About Me
 
-- 🌌 **专注** Web 可视化 & 3D 图形系统构建  
+- 🌌 **专注** Web 可视化 & 3D 图形系统构建 (WebGL / Three.js / Cesium)
 - ⚙ **构建** 高性能数据平台与工程化架构  
 - 🤖 **探索** AIGC 与多模态应用落地  
 - 📚 **信条** 生活不止，学无止境  
 
 <p align="left">
-  <a href="https://blog.csdn.net/qq_53742640?spm=1010.2135.3001.5343" target="blank">
+  <a href="https://blog.csdn.net/qq_53742640" target="blank">
     <img src="https://img.shields.io/badge/CSDN-专注前端与可视化-C92027?style=for-the-badge&logo=csdn&logoColor=white" />
   </a>
   <a href="mailto:lien0219@example.com">
@@ -55,10 +55,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lien0219&theme=react-dark&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lien0219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF"/>
 </p>
 
 ---

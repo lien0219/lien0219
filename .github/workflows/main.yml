@@ -1,4 +1,4 @@
-name: Generate Minimal Neon Snake
+name: Generate Profile Visuals
 
 on:
   schedule:
@@ -14,6 +14,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      # 1. 生成 3D 贡献图 (看起来像 Three.js 渲染的)
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          github_user_name: lien0219
+
+      # 2. 生成 贪吃蛇 (保留作为备选)
       - name: Generate snake
         uses: Platane/snk@v3
         with:
