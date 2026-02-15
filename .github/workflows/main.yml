@@ -1,8 +1,8 @@
-name: Generate Neon Snake
+name: Generate Minimal Neon Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,15 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: lien0219
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=00F5FF&color_dots=#0d1117,#0d1117,#0d1117,#0d1117,#00F5FF
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00F5FF
 
-      - name: Push to output branch
+      - name: Push to output
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
