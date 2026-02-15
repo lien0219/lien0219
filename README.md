@@ -1,69 +1,78 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00F5FF&height=280&section=header&text=LIEN&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20Control%20System&descAlignY=60&descSize=22"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1800&pause=600&color=00F5FF&center=true&vCenter=true&width=1000&lines=>+booting+agent+kernel...;>+loading+perception.module...;>+activating+memory.layer...;>+spawning+reasoning.agent...;>+linking+execution.engine...;>+multi-agent+system+online."/>
+</p>
+
+---
+
+# 🧠 /core.identity
+
 ```bash
-██╗     ██╗███████╗███╗   ██╗
-██║     ██║██╔════╝████╗  ██║
-██║     ██║█████╗  ██╔██╗ ██║
-██║     ██║██╔══╝  ██║╚██╗██║
-███████╗██║███████╗██║ ╚████║
-╚══════╝╚═╝╚══════╝╚═╝  ╚═══╝
-
-> boot sequence initiated...
-> loading neural architecture...
-> calibrating visualization engine...
-> linking multimodal intelligence...
-> self-awareness threshold: 72%
-> learning rate amplified.
-> consciousness module online.
+ENTITY          :: LIEN
+SYSTEM_ROLE     :: AI Agent Architect
+PRIMARY_DOMAIN  :: 3D Visualization · AIGC · Distributed Systems
+ARCHITECTURE    :: Multi-Agent · High Performance · Scalable
+EVOLUTION_STAGE :: ACTIVE
 ```
 
 ---
 
-## 🧠 core.identity
+# ⚙ /agent.modules
 
-```txt
-entity      : LIEN
-type        : Human · Engineer · System Builder
-domain      : 3D Visualization · AI Systems · Distributed Architecture
-focus       : AIGC · Multimodal Intelligence · Agent Systems
-status      : evolving
-version     : vNext
+```bash
+/agents
+ ├── perception.agent      → WebGL · Three.js · Cesium · WebGIS
+ ├── interface.agent       → TypeScript · React · Vue
+ ├── reasoning.agent       → Go · Node · Python · C++
+ ├── memory.agent          → MySQL · Data Modeling · Storage Systems
+ └── infrastructure.agent  → Docker · Linux · CI/CD
 ```
 
 ---
 
-## ⚙ system.modules
+# 📡 /system.telemetry
 
-```txt
-[ perception.engine ]    WebGL · Three.js · Cesium · Canvas
-[ cognition.layer   ]    TypeScript · React · Vue
-[ reasoning.core    ]    Go · Node · Python · C++
-[ infrastructure    ]    Docker · Linux · Git · MySQL
-```
-
----
-
-## 📡 neural.activity.log
-
-```txt
-> commits processed          : increasing
-> system uptime              : persistent
-> intelligence growth rate   : exponential
-> evolution status           : continuous
-> anomaly detection          : stable
-> innovation pipeline        : active
+```bash
+> neural throughput      : optimal
+> agent synchronization  : stable
+> learning coefficient   : increasing
+> commit velocity        : sustained
+> anomaly detection      : 0 critical
+> intelligence growth    : exponential
 ```
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=dark&hide_border=true&background=000000&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="75%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=0f0c29&ring=8A2BE2&fire=00F5FF&currStreakLabel=00F5FF" width="80%"/>
 </p>
 
 ---
 
-```bash
-> objective: augment reality
-> objective: construct intelligent systems
-> objective: transcend static architectures
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lien0219&theme=react-dark&bg_color=0f0c29&color=8A2BE2&line=00F5FF&point=ffffff&hide_border=true"/>
+</p>
 
-> future.loading...
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lien0219&label=AGENT+CONNECTIONS&color=8A2BE2&style=flat-square"/>
+</p>
+
+---
+
+<p align="center">
+
+```bash
+> objective.initialize()
+> build_intelligent_systems()
+> render_dynamic_realities()
+> transcend_static_architecture()
+
+system.status = EVOLVING
 ```
+
+</p>
