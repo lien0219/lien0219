@@ -86,7 +86,7 @@ https://blog.csdn.net/qq_53742640?spm=1010.2135.3001.5343
 # 🏆 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lien0219&theme=algolia&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lien0219&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@ https://blog.csdn.net/qq_53742640?spm=1010.2135.3001.5343
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lien0219/lien0219/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/lien0219/lien0219/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
