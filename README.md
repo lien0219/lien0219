@@ -69,7 +69,7 @@ https://blog.csdn.net/qq_53742640?spm=1010.2135.3001.5343
 # 📊 Engineering Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lien0219&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF"/>
+  <img src="https://stats.vercel.app/api?username=lien0219&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
 </p>
 
