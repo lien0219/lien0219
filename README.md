@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=420&color=0:000000,15:0a0014,35:140021,55:2e003e,75:4b006e,90:8A2BE2,100:ffffff&text=AI%20SOVEREIGN&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Neural%20Matrix%20·%20Sovereign%20Intelligence&descAlignY=74&descSize=28"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=560&color=0:000000,15:0a0014,30:140021,50:2e003e,70:4b006e,85:8A2BE2,100:b266ff&text=AI%20SOVEREIGN&fontSize=120&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Neural%20Matrix%20·%20Sovereign%20Intelligence&descAlignY=78&descSize=30"
+    width="100%"
+  />
 </p>
 
 <p align="center">
