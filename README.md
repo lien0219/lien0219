@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lien0219&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=9feaf9&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lien0219&show_icons=true&theme=dark&hide_border=true&title_color=00F5FF&icon_color=00F5FF&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="Streak Stats" />
 </div>
 
