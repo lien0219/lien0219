@@ -6,90 +6,66 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=生活不止，学无止境;WebGL+%7C+WebGIS+%7C+Three.js+%7C+Cesium;H5+%7C+Vue+%7C+React+%7C+Canvas;Golang+%7C+Node.js+%7C+Python+%7C+C%2B%2B;Building+Visualization+Systems;Exploring+AIGC+Intelligence"/>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lien0219&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=9feaf9" alt="lien0219's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="lien0219's streak stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lien0219/lien0219/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 ---
 
 # 🧠 About Me
 
-- 🌌 专注 Web 可视化 & 3D 图形系统构建  
-- ⚙ 构建高性能数据平台与工程化架构  
-- 🤖 探索 AIGC 与多模态应用落地  
-- 📚 生活不止，学无止境  
+- 🌌 **专注** Web 可视化 & 3D 图形系统构建  
+- ⚙ **构建** 高性能数据平台与工程化架构  
+- 🤖 **探索** AIGC 与多模态应用落地  
+- 📚 **信条** 生活不止，学无止境  
 
-🔗 Blog  
-https://blog.csdn.net/qq_53742640?spm=1010.2135.3001.5343  
+<p align="left">
+  <a href="https://blog.csdn.net/qq_53742640?spm=1010.2135.3001.5343" target="blank">
+    <img src="https://img.shields.io/badge/CSDN-专注前端与可视化-C92027?style=for-the-badge&logo=csdn&logoColor=white" />
+  </a>
+  <a href="mailto:lien0219@example.com">
+    <img src="https://img.shields.io/badge/Contact-Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</p>
 
 ---
 
 # ⚙ Tech Stack
 
-## 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,nodejs" />
+### 🎨 Frontend & Visualization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,threejs,webgl" />
 </p>
 
-- H5 / CSS3  
-- JavaScript / jQuery  
-- Vue / React  
-- UniApp  
-
----
-
-## 🌌 Visualization & Graphics
-
-- WebGL  
-- WebGIS  
-- Canvas  
-- Cesium  
-- Three.js  
-
----
-
-## 🧠 Backend & Language
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,python,cpp,nodejs" />
+### 🧠 Backend & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,python,cpp,docker,linux,git,mysql" />
 </p>
-
-- Golang  
-- Node.js  
-- Python  
-- C++  
-
----
-
-## 🤖 AI & AIGC
-
-- AIGC 应用集成  
-- AI 工作流设计  
-- 多模态系统探索  
 
 ---
 
 # 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://stats.vercel.app/api?username=lien0219&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
-</p>
-
----
-
-# ⚡ Data Flow
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lien0219&theme=react-dark&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true"/>
 </p>
-
----
-
-# 🏆 Tech Distribution
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lien0219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF"/>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lien0219&label=PROFILE+VIEWS&color=00F5FF&style=flat-square" alt="lien0219" />
+</p>
 
 <p align="center">
   ⚡ Build Systems · Create Visuals · Explore Intelligence ⚡
