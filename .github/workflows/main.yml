@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Neon Snake
 
 on:
   schedule:
@@ -6,24 +6,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: lien0219
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=00F5FF&color_dots=#0d1117,#0d1117,#0d1117,#0d1117,#00F5FF
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00F5FF
 
-      - name: Push snake
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
