@@ -13,8 +13,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lien0219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lien0219&theme=tokyonight&no-bg=true&column=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="80%"/>
 </div>
 
 ---
