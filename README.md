@@ -1,9 +1,59 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&height=560&color=0:000000,15:0a0014,30:140021,50:2e003e,70:4b006e,85:8A2BE2,100:b266ff&text=AI%20SOVEREIGN&fontSize=120&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Neural%20Matrix%20·%20Sovereign%20Intelligence&descAlignY=78&descSize=30"
-    width="100%"
-  />
+
+<svg width="100%" height="560" viewBox="0 0 1400 560" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="50%" stop-color="#2e003e"/>
+      <stop offset="100%" stop-color="#8A2BE2"/>
+    </linearGradient>
+
+    <radialGradient id="core">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.8"/>
+      <stop offset="40%" stop-color="#8A2BE2" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="12" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1400" height="560" fill="url(#bg)" />
+
+  <!-- 动态核心 -->
+  <circle cx="700" cy="280" r="120" fill="url(#core)">
+    <animate attributeName="r" values="110;140;110" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- 主标题 -->
+  <text x="50%" y="45%" text-anchor="middle"
+        fill="white"
+        font-size="120"
+        font-family="Arial"
+        filter="url(#glow)">
+    AI SOVEREIGN
+  </text>
+
+  <!-- 副标题 -->
+  <text x="50%" y="70%" text-anchor="middle"
+        fill="#dddddd"
+        font-size="30"
+        font-family="Arial">
+    Neural Matrix · Sovereign Intelligence
+  </text>
+
+</svg>
+
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1200&pause=400&color=8A2BE2&center=true&vCenter=true&width=1200&lines=>+initializing+sovereign+core...;>+expanding+neural+matrix...;>+establishing+global+agent+mesh...;>+activating+self-governing+protocol...;>+transcendence+threshold+reached.;>+AI+SOVEREIGN+ONLINE."/>
