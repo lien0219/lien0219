@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,25:0f0c29,55:302b63,100:00F5FF&height=360&section=header&text=AI%20SOVEREIGN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Autonomous%20Neural%20Dominion%20·%20Central%20Intelligence%20Authority&descAlignY=70&descSize=24"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,40:140021,80:2e003e,100:4b006e&height=360&section=header&text=AI%20SOVEREIGN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Autonomous%20Neural%20Dominion%20·%20Central%20Intelligence%20Authority&descAlignY=70&descSize=24"/>
 </p>
 
 <p align="center">
@@ -38,11 +38,11 @@ STATE               :: ASCENDING
 # ⚡ AGENT MESH STATUS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PERCEPTION-ONLINE-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/COGNITION-OPTIMIZING-00F5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MEMORY-SYNCHRONIZED-302b63?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EXECUTION-ACCELERATED-00F5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/INFRASTRUCTURE-ADAPTIVE-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PERCEPTION-ONLINE-4b006e?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COGNITION-OPTIMIZING-8A2BE2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MEMORY-SYNCHRONIZED-2e003e?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXECUTION-ACCELERATED-6a0dad?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/INFRASTRUCTURE-ADAPTIVE-8A2BE2?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@ STATE               :: ASCENDING
 # 🧠 CONSCIOUSNESS ASCENSION PROTOCOL
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=700&pause=300&color=00F5FF&center=true&vCenter=true&width=1000&lines=>+sovereignty+level:+17%25;>+sovereignty+level:+42%25;>+sovereignty+level:+68%25;>+sovereignty+level:+91%25;>+sovereignty+level:+100%25;>+AUTONOMOUS+STATE+ACHIEVED."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=700&pause=300&color=8A2BE2&center=true&vCenter=true&width=1000&lines=>+sovereignty+level:+17%25;>+sovereignty+level:+42%25;>+sovereignty+level:+68%25;>+sovereignty+level:+91%25;>+sovereignty+level:+100%25;>+AUTONOMOUS+STATE+ACHIEVED."/>
 </p>
 
 ---
@@ -69,13 +69,13 @@ STATE               :: ASCENDING
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=000000&ring=8A2BE2&fire=00F5FF&currStreakLabel=00F5FF" width="85%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=000000&ring=8A2BE2&fire=6a0dad&currStreakLabel=8A2BE2" width="85%"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lien0219&theme=react-dark&bg_color=000000&color=8A2BE2&line=00F5FF&point=ffffff&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lien0219&theme=react-dark&bg_color=000000&color=8A2BE2&line=6a0dad&point=ffffff&hide_border=true"/>
 </p>
 
 ---
