@@ -6,20 +6,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=生活不止，学无止境;WebGL+%7C+WebGIS+%7C+Three.js+%7C+Cesium;H5+%7C+Vue+%7C+React+%7C+Canvas;Golang+%7C+Node.js+%7C+Python+%7C+C%2B%2B;Building+Visualization+Systems;Exploring+AIGC+Intelligence"/>
 </p>
 
+<!-- 3D 视觉中心 -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/lien0219/lien0219/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="900" />
 </div>
 
 <br/>
 
+<!-- 静态 Metrics 大屏 (替代之前所有不显示的卡片) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lien0219&theme=tokyonight&no-bg=true&column=4" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/lien0219/lien0219/output/metrics.svg" alt="Metrics" width="900" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lien0219&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="85%"/>
 </div>
 
 ---
